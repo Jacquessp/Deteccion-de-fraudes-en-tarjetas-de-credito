@@ -47,11 +47,11 @@ Para reproducir este proyecto:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/Jacquessp/Deteccion-de-fraudes-en-tarjetas-de-credito.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   cd nombre-del-repositorio
+   cd Deteccion-de-fraudes-en-tarjetas-de-credito
    ```
 3. Ejecuta el notebook `Proyecto final.ipynb` para ver los pasos completos del análisis y modelado.
 

@@ -1,8 +1,3 @@
-# Deteccion-de-fraudes-en-tarjetas-de-credito
-Aquí tienes un ejemplo de texto para un archivo README que puedes utilizar para presentar tu proyecto de detección de fraudes con tarjetas de crédito en GitHub:
-
----
-
 # **Detección de Fraudes con Tarjetas de Crédito**
 
 Este repositorio contiene un proyecto completo para la detección de fraudes con tarjetas de crédito utilizando técnicas de aprendizaje automático. El objetivo principal es desarrollar un modelo que pueda identificar transacciones fraudulentas basándose en un conjunto de datos históricos de transacciones.

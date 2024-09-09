@@ -61,7 +61,7 @@ Contributions to this project are welcome. If you have ideas to improve the mode
 
 ## **License**
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License.
 
 ## **Contact**
 

@@ -61,12 +61,8 @@ Las contribuciones a este proyecto son bienvenidas. Si tienes ideas para mejorar
 
 ## **Licencia**
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la Licencia MIT.
 
 ## **Contacto**
 
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo a través de [engjtsp@gmail.com](mailto:engjtsp@gmail.com).
-
----
-
-Este README proporciona una descripción clara y organizada de tu proyecto, con secciones que explican el propósito, la metodología, y los resultados obtenidos, así como instrucciones para reproducir el análisis y contribuir al proyecto.
